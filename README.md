@@ -1,0 +1,1 @@
+In this project, we have analyzed the which countries take longer time to crack the passwords, types of the common passwords used by different countries, strongest and weakest passwords, which password is safe to use.
